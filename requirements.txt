@@ -1,0 +1,4 @@
+pytest
+selene~=2.0.0rc4
+
+requests~=2.31.0
